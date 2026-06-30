@@ -1,6 +1,6 @@
 # Hi, I'm Mahmoud Mohamed 👋
 
-I'm an Angular Developer and Software Engineer focused on building responsive, scalable, and user-friendly web applications.
+I'm an Angular Developer and Software Engineer focused on building responsive, maintainable, and user-friendly web applications.
 
 I work mainly with Angular, TypeScript, RxJS, Reactive Forms, Routing, Guards, Interceptors, Bootstrap, and REST API integration.
 
@@ -21,32 +21,24 @@ Currently, I'm working as an External Instructor at the Information Technology I
 
 ## Featured Projects
 
-### Booking Management Web Application
+### Portfolio Website
 
-Frontend web application for managing bookings, services, employees, and availability.
+Personal portfolio showcasing my frontend projects, experience, skills, and work history.
 
-Tech Stack: Angular, TypeScript, RxJS, Bootstrap, REST APIs
+### Angular E-Commerce App
+
+Responsive e-commerce interface for displaying products, filtering categories, and viewing product details.
+
+### Medium Clone
+
+Articles platform where users can create, edit, delete articles, follow writers, and view profiles.
 
 ### University Campus Housing Management System
 
 Graduation project for managing university housing workflows, room selection, availability, violations, reporting, and admin settings.
 
-Tech Stack: Angular, TypeScript, Bootstrap, Figma, REST APIs
-
-### Medium Clone — Articles Website
-
-Articles platform where users can create, edit, delete articles, follow writers, and view profiles.
-
-Tech Stack: Angular, TypeScript, Bootstrap, REST APIs
-
-### E-Commerce Angular App
-
-Responsive e-commerce interface for displaying products, filtering categories, and viewing product details.
-
-Tech Stack: Angular, TypeScript, Bootstrap
-
 ## Let's Connect
 
 * Portfolio: https://mahmoud-mohamed-portfolio.vercel.app
-* LinkedIn: [Add your LinkedIn link]
-* Email: [Add your email]
+* LinkedIn: https://www.linkedin.com/in/mahmoud-mo-mahmoud
+* Email: [mmahmoud092002@gmail.com](mailto:mmahmoud092002@gmail.com)
