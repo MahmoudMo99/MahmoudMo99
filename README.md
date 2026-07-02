@@ -41,4 +41,4 @@ Graduation project for managing university housing workflows, room selection, av
 
 * Portfolio: https://mahmoud-mohamed-portfolio.vercel.app
 * LinkedIn: https://www.linkedin.com/in/mahmoud-mo-mahmoud
-* Email: [mmahmoud092002@gmail.com](mailto:mmahmoud092002@gmail.com)
+* Email: [mmahmoud092002@gmail.com](mailto:mahmoud.mmi.dev@gmail.com)
