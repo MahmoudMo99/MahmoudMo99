@@ -1,4 +1,4 @@
-# Hi, I'm Mahmoud Mohamed 👋
+# Hi, I'm Mahmoud Mohamed
 
 I'm an Angular Developer and Software Engineer focused on building responsive, maintainable, and user-friendly web applications.
 
