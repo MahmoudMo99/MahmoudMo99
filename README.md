@@ -4,7 +4,7 @@ I'm an Angular Frontend Developer and Software Engineer focused on building clea
 
 I work mainly with Angular, TypeScript, RxJS, REST APIs, Reactive Forms, Routing, Guards, Interceptors, and modern frontend architecture.
 
-Currently, I'm working as an External Instructor at the Information Technology Institute (ITI), where I mentor students through real-world web development projects, debugging, code reviews, and practical implementation.
+Currently, I'm working as an External Instructor at the Information Technology Institute (ITI), where I deliver web development lectures and mentor trainees in the MEARN Stack track through real-world projects, debugging, code reviews, and practical implementation.
 
 ## Tech Stack
 
