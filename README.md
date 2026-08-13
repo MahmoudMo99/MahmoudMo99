@@ -1,44 +1,39 @@
 # Hi, I'm Mahmoud Mohamed
 
-I'm an Angular Developer and Software Engineer focused on building responsive, maintainable, and user-friendly web applications.
+I'm an Angular Frontend Developer and Software Engineer focused on building clean, responsive, and maintainable web applications.
 
-I work mainly with Angular, TypeScript, RxJS, Reactive Forms, Routing, Guards, Interceptors, Bootstrap, and REST API integration.
+I work mainly with Angular, TypeScript, RxJS, REST APIs, Reactive Forms, Routing, Guards, Interceptors, and modern frontend architecture.
 
 Currently, I'm working as an External Instructor at the Information Technology Institute (ITI), where I mentor students through real-world web development projects, debugging, code reviews, and practical implementation.
 
 ## Tech Stack
 
-* Angular
-* TypeScript
-* JavaScript
-* RxJS
-* HTML5
-* CSS3
-* Bootstrap
-* REST APIs
-* Git & GitHub
-* Postman
+**Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, Sass, Bootstrap  
+**Angular:** Components, Routing, Guards, Interceptors, Reactive Forms, RxJS  
+**APIs & Tools:** REST APIs, Postman, Git, GitHub  
+**Backend Basics:** Node.js, Express.js, ASP.NET Core  
+**Databases:** MS SQL Server, MongoDB  
 
 ## Featured Projects
 
 ### Portfolio Website
+Personal portfolio showcasing my frontend projects, experience, skills, and client feedback.  
+Live Demo: https://mahmoud-mohamed-portfolio.vercel.app
 
-Personal portfolio showcasing my frontend projects, experience, skills, and work history.
+### Nova AI Learning Assistant
+AI-powered learning assistant built with Angular, Node.js, Express, and Gemini API.
 
-### Angular E-Commerce App
-
-Responsive e-commerce interface for displaying products, filtering categories, and viewing product details.
-
-### Medium Clone
-
-Articles platform where users can create, edit, delete articles, follow writers, and view profiles.
+### Medium Plus
+Article platform where users can create, edit, delete articles, follow writers, and view profiles.
 
 ### University Campus Housing Management System
-
 Graduation project for managing university housing workflows, room selection, availability, violations, reporting, and admin settings.
+
+### Tripadvisor Clone
+Full-stack travel platform clone built with Angular, Node.js, Express, and MongoDB.
 
 ## Let's Connect
 
-* Portfolio: https://mahmoud-mohamed-portfolio.vercel.app
-* LinkedIn: https://www.linkedin.com/in/mahmoud-mo-mahmoud
-* Email: [mahmoud.mmi.dev@gmail.com](mailto:mahmoud.mmi.dev@gmail.com)
+- Portfolio: https://mahmoud-mohamed-portfolio.vercel.app
+- LinkedIn: https://www.linkedin.com/in/mahmoud-mo-mahmoud
+- Email: mahmoud.mmi.dev@gmail.com
